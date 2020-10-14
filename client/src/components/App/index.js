@@ -1,10 +1,9 @@
 import React from 'react';
+import TopLevelRouter from '../TopLevelRouter';
 
 function App() {
   return (
-    <div>
-      Hello World!
-    </div>
+    <TopLevelRouter />
   );
 }
 
